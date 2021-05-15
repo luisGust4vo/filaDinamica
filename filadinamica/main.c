@@ -74,7 +74,7 @@ int main(void){
     enfileirar(20,f1);
     enfileirar(30,f1);
 
-    imprimeFila(f1);
+    //imprimeFila(f1);
   }
 
 
