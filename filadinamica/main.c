@@ -69,6 +69,7 @@ int main(void){
     exit(-1);
   }else{
     inicializar(f1);
+    //teste
     enfileirar(10,f1);
     enfileirar(20,f1);
     enfileirar(30,f1);
