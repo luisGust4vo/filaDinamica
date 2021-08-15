@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct NO{a
+typedef struct NO{
 int dado;
 struct NO *prox;
 }NO;
